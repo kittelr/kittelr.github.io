@@ -12,4 +12,4 @@ related_publications: false
 
 Our empirical focus is on political debates about the provision of health care, the protection of workers, pensions, and social investment through education. We develop the tool of automated explanation analysis to identify the political explanations that different actors use in large bodies of texts. We conduct laboratory experiments and representative survey experiments that manipulate the explanations of different political actors for various social policies and forms of collective action, using the information gathered by text analysis.
 
-For more information, please check out the <a href="https://sites.google.com/view/forgingsolidarity/home">project's website</a> system!
+For more information, please check out the <a href="https://sites.google.com/view/forgingsolidarity/home">project's website</a>!

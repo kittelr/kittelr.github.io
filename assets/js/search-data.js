@@ -11,13 +11,13 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Below you can find my peer-reviewd articles as well as other publications",
+          description: "below you can find my peer-reviewd articles as well as other publications",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "cv",
+        },{id: "nav-curriculum-vitae",
+          title: "curriculum vitae",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Overview of my collaborative projects.",
+          description: "overview of my own and collaborative projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";

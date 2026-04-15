@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: below you can find my peer-reviewd articles as well as other publications
+description: peer-reviewd articles and more
 nav: true
 nav_order: 2
 ---

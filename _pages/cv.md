@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /cv/
-title: cv
+title: curriculum vitae
 description: 
 nav: true
 nav_order: 3
 calendar: false
 ---
 
-You can find my CV below.
+
 
 
 <iframe

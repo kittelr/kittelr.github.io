@@ -27,4 +27,4 @@ calendar: false
 *  BA seminar: *Populism in Western Europe* [(Syllabus)]({{ site.baseurl }}/assets/pdf/Syllabus_Populism_in_Western_Europe_2022.pdf)
 
 
-Next to BA and MA seminars, I am also teaching shorter methods on e.g. *Introduction to Text-As-Data* or *A 	Web-Scraping and Automated Data Collection*. This summer I will be teaching again at the [Summer School for Women in Political Methodology](https://summerschoolwpm.org/) again.
+Next to BA and MA seminars, I am also teaching shorter methods courses on e.g. *Introduction to Text-As-Data* or *Web-Scraping and Automated Data Collection*. This summer I will be teaching again at the [Summer School for Women in Political Methodology](https://summerschoolwpm.org/) in Mannheim.

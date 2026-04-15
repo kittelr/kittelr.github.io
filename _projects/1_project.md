@@ -4,7 +4,7 @@ title: LOOPS
 description: The Logistics of Protest Camps in Authoritarian Regimes
 img: assets/img/loops_logo1.jpg
 importance: 1
-category: work
+category: current
 related_publications: false
 ---
 

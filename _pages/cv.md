@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /cv/
-title: CV
-description: cv
+title: cv
+description: 
 nav: true
 nav_order: 3
 calendar: false

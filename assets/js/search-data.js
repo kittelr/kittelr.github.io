@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Below you can find my published work.",
+          description: "Below you can find my peer-reviewd articles as well as other publications",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "previous and current courses with syllabi",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";

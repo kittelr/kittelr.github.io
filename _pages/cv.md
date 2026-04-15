@@ -8,7 +8,7 @@ nav_order: 3
 calendar: false
 ---
 
-You can download my curriculum vitae here.
+You can find my CV below.
 
 
 <iframe

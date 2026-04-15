@@ -2,13 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: previous and current courses with syllabi
 nav: true
 nav_order: 6
 calendar: false
 ---
-
-previous and current courses with syllabi
 
 
 **current course:**
@@ -27,3 +25,6 @@ previous and current courses with syllabi
 **designed but not taught:**
 
 *  BA seminar: *Populism in Western Europe* [(Syllabus)]({{ site.baseurl }}/assets/pdf/Syllabus_Populism_in_Western_Europe_2022.pdf)
+
+
+Next to BA and MA seminars, I am also teaching shorter methods on e.g. *Introduction to Text-As-Data* or *A 	Web-Scraping and Automated Data Collection*. This summer I will be teaching again at the [Summer School for Women in Political Methodology](https://summerschoolwpm.org/) again.

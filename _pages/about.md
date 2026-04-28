@@ -35,6 +35,6 @@ Before, I was a PhD Researcher at the [European University Institute](https://ww
 To test the causal effect of language patterns on participation and voting behaviour, I am employing different survey experiments. Further, I analyse how communication styles, e.g. language complexity or emotions can mobilize people to protest. During my PhD, I was also visiting researcher at the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html). 
 
 
-My research interest lies in the fields of comparative politics, social movement studies and political communication with a focus on computational social science methods and survey experiments. Current work has been published in *European Journal of Political Research* and *Government and Opposition*.
+My research interest lies in the fields of comparative politics, social movement studies and political communication with a focus on computational social science methods and survey experiments. 
 
 

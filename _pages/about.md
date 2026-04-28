@@ -30,9 +30,11 @@ social: true # includes social icons at the bottom of the page
 Welcome to my website! I am a Post Doctoral Researcher at [Free University Berlin](https://www.fu-berlin.de/), Germany and Guest Researcher at the [Berlin Social Science Center (WZB)](https://wzb.eu/en), Germany. I am currently working in the ERC-funded project [LOOPS](https://www.oei.fu-berlin.de/Forschung/loops/index.html) - The Logistics of Popular Uprisings in Competitive Authoritarian Regimes.
 
 
-Before, I was a PhD Researcher at the [European University Institute](https://www.eui.eu/en/home) in Florence, Italy. My research focuses on elite communication strategies and their effect on voters. To trace party positions and politicians' language style, I applied a series of computational text analysis tools including machine learning and dictionaries. To test the causal effect of language patterns on voter behaviour, I am conducting different survey experiments. During my PhD, I was also visiting researcher at the [NYU Wilf Family Department](https://as.nyu.edu/departments/politics.html).
+Before, I was a PhD Researcher at the [European University Institute](https://www.eui.eu/en/home) in Florence, Italy. My research focuses on elite communication strategies and their effect on voters. To trace party positions and politicians' language style, I applied a series of computational text analysis tools including machine learning and dictionaries with a strong emphasis on populist communication strategies. 
+
+To test the causal effect of language patterns on participation and voting behaviour, I am employing different survey experiments. Further, I analyse how communication styles, e.g. language complexity or emotions can mobilize people to protest. During my PhD, I was also visiting researcher at the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html). 
 
 
-My research interest lies in the fields of social movement studies, comparative politics and political communication with a focus on computational social science methods and survey experiments.
+My research interest lies in the fields of comparative politics, social movement studies and political communication with a focus on computational social science methods and survey experiments. Current work has been published in *European Journal of Political Research* and *Government and Opposition*.
 
 

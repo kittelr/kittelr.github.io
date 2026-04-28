@@ -18,9 +18,9 @@ calendar: false
 
 *  MA seminar @FU Berlin: *Online Communication and the Organisation of Protest Camps* [(Syllabus)]({{ site.baseurl }}/assets/pdf/LOOPS_X_Research_Syllabus-6.pdf)
 
-*  MA seminar @Lucerne: *Party Competition and POlitical Communication* [(Syllabus)]({{ site.baseurl }}/assets/pdf/Syllabus_Party_Competition_and_Political_Communication_Lucerne_2023.pdf)
+*  MA seminar @Uni Lucerne: *Party Competition and POlitical Communication* [(Syllabus)]({{ site.baseurl }}/assets/pdf/Syllabus_Party_Competition_and_Political_Communication_Lucerne_2023.pdf)
 
-*  BA seminar @HHU Düsseldorf: *Party Competition and POlitical Communication* [(Syllabus)]({{ site.baseurl }}/assets/pdf/Syllabus_Party_Competition_and_Political_Communication_HHU_2022.pdf)
+*  BA seminar @HHU Düsseldorf: *Party Competition and Political Communication* [(Syllabus)]({{ site.baseurl }}/assets/pdf/Syllabus_Party_Competition_and_Political_Communication_HHU_2022.pdf)
 
 **designed but not taught:**
 

@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website! I am a Post Doctoral Research Fellow at the [Berlin Social Science Center (WZB)](https://wzb.eu/en), Germany. Before, I working in the ERC-funded project [LOOPS](https://www.oei.fu-berlin.de/Forschung/loops/index.html) - The Logistics of Popular Uprisings in Competitive Authoritarian Regimes at [Free University Berlin](https://www.fu-berlin.de/), Germany.
+Welcome to my website! I am a Post Doctoral Research Fellow at the [Berlin Social Science Center (WZB)](https://wzb.eu/en), Germany. Before, I was working in the ERC-funded project [LOOPS](https://www.oei.fu-berlin.de/Forschung/loops/index.html) - The Logistics of Popular Uprisings in Competitive Authoritarian Regimes at [Free University Berlin](https://www.fu-berlin.de/), Germany.
 
 
 I obtained my PhD at the [European University Institute](https://www.eui.eu/en/home) in Florence, Italy. My research focuses on elite communication strategies and their effect on voters. To trace party positions and politicians' language style, I applied a series of computational text analysis tools including machine learning and dictionaries with a strong emphasis on populist communication strategies. 
